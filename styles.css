@@ -19,7 +19,7 @@ body {
     background-color: #4caf50;
     width: 100%;
     transition: width 0.2s;
-  }
+  } 
   
   #health-text {
     margin-top: 10px;

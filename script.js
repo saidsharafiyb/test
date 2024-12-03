@@ -2,7 +2,7 @@
 const maxHealth = 100;
 
 // Текущее здоровье
-let currentHealth = maxHealth;
+let currentHealth = maxHealth; 
 
 // Элементы интерфейса
 const healthBarInner = document.getElementById('health-bar-inner');
